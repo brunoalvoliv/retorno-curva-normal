@@ -1,6 +1,6 @@
 # Distribuição Normal - Ibovespa
 
-<p style="text-align: justify"> *Projeto 1:* calcular o retorno do Ibovespa utilizando a Distribuição Normal
+*Projeto 1:* calcular o retorno do Ibovespa utilizando a Distribuição Normal
 
 Bibliotecas utilizadas:
 
